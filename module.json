@@ -1,0 +1,27 @@
+{
+	"id": "world-scripter",
+	"title": "World Scripter",
+	"description": "Run World Scripts with ease.",
+	"authors": [
+		{
+			"name": "Matheus Clemente",
+			"dicord": "mclemente"
+		}
+	],
+	"esmodules": ["module/world-scripter.js"],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"compatibility": {
+		"minimum": "13",
+		"verified": "13"
+	},
+	"url": "This is auto replaced",
+	"version": "This is auto replaced",
+	"manifest": "This is auto replaced",
+	"download": "This is auto replaced"
+}
