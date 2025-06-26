@@ -3,7 +3,7 @@
 		"SETTINGS": {
 			"scripts": {
 				"name": "World Script",
-				"hint": "Caveat: code hooked to the \"init\" hook won't run because the module already executes the code during that hook's call and new hooks to init are ignored at that point. The simplest way to circumvent this issue is to hook to the \"i18nInit\" hook instead."
+				"hint": "Supports every hook, except the <code>init</code> hook."
 			},
 			"ERROR": {
 				"Syntax": "World Scripter | There was an error in your JavaScript syntax. See the console (F12) for details."
