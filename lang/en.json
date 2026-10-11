@@ -3,11 +3,15 @@
 		"SETTINGS": {
 			"scripts": {
 				"name": "World Script",
-				"hint": "Supports every hook, except the <code>init</code> hook."
+				"hint": "The above code will be run after the init hook has fired."
 			},
-			"ERROR": {
-				"Syntax": "World Scripter | There was an error in your JavaScript syntax. See the console (F12) for details."
+			"macroPacks": {
+				"name": "Macro Compendiums",
+				"hint": "The macros in the selected compendiums will be run after the setup hook has fired."
 			}
+		},
+		"ERRORS": {
+			"syntax": "World Scripter | There was an error in your JavaScript syntax. See the console (F12) for details."
 		}
 	}
 }

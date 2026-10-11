@@ -1,27 +1,32 @@
 {
-	"id": "world-scripter",
-	"title": "World Scripter",
-	"description": "Run World Scripts with ease.",
-	"authors": [
-		{
-			"name": "Matheus Clemente",
-			"dicord": "mclemente"
-		}
-	],
-	"esmodules": ["module/world-scripter.js"],
-	"languages": [
-		{
-			"lang": "en",
-			"name": "English",
-			"path": "lang/en.json"
-		}
-	],
-	"compatibility": {
-		"minimum": "13",
-		"verified": "13"
-	},
-	"url": "This is auto replaced",
-	"version": "This is auto replaced",
-	"manifest": "This is auto replaced",
-	"download": "This is auto replaced"
+  "id": "world-scripter",
+  "title": "World Scripter",
+  "description": "<p>Run World Scripts with ease.</p><p></p><p>Supports running post-init scripts with the built in macro section in the configuration settings.</p><p>Supports running post-setup scripts from selected compendiums - selection chosen in configuration settings.</p>",
+  "authors": [
+    {
+      "name": "Matheus Clemente",
+      "discord": "mclemente",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "module/world-scripter.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "13.341",
+    "verified": "13.350"
+  },
+  "url": "This is auto replaced",
+  "version": "This is auto replaced",
+  "manifest": "This is auto replaced",
+  "download": "This is auto replaced",
+  "flags": {}
 }
