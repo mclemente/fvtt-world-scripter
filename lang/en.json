@@ -1,9 +1,17 @@
 {
 	"WORLD_SCRIPTER": {
 		"SETTINGS": {
-			"scripts": {
-				"name": "World Script",
-				"hint": "Supports every hook, except the <code>init</code> hook."
+			"init": {
+				"name": "Init Hook"
+			},
+			"i18ninit": {
+				"name": "i18n Init Hook"
+			},
+			"setup": {
+				"name": "Setup Hook"
+			},
+			"ready": {
+				"name": "Ready Hook"
 			},
 			"ERROR": {
 				"Syntax": "World Scripter | There was an error in your JavaScript syntax. See the console (F12) for details."
